@@ -1,5 +1,3 @@
-# Create separate functions to convert between Celsius, Fahrenheit, and Kelvin. Each function should take one input parameter and return the converted value. Demonstrate usage of all functions in a main program with sample conversions.
-
 def celsius_to_fahrenheit(celsius):
     return (celsius * 9/5) + 32
 
